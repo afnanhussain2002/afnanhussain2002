@@ -1,5 +1,5 @@
 ![banner](banner.png)
-<div class='center'>
+
   
 ### Hi there 👋, my name is Afnan Hussain
 #### I aspire to excel as a proficient Full Stack Web Developer
@@ -17,5 +17,5 @@ Skills:  REACT / JS /NEXT JS / HTML / CSS/ WORDPRESS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afnanhussain2002)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=afnanhussain2002)  
-</div>
+
 
