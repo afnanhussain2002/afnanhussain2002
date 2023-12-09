@@ -1,4 +1,5 @@
 ![banner](https://i.ibb.co/Bz3PQ7k/AFNAN-HUSSAIN-8.png)
+![banner](banner.png)
 ### Hi there 👋, my name is Afnan Hussain
 #### I aspire to excel as a proficient Full Stack Web Developer
 
