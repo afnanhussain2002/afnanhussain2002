@@ -4,7 +4,7 @@
 ### Hi there 👋, my name is Afnan Hussain
 #### I aspire to excel as a proficient Full Stack Web Developer
 
-Greetings, I'm Afnan Hussain, a driven individual hailing from the vibrant landscapes of Bangladesh. Embarking on a journey of technological exploration, my ambition is to master the realm of Full Stack Web Development, particularly leveraging the power of the MERN (MongoDB, Express.js, React.js, Node.js) stack.
+This is Afnan Hussain from Bangladesh. For the past year, I have been researching full-stack web development, and I chose the MERN stack to learn full-stack development. I always love to learn something new and apply my ideas to projects. If you visited my Linkdin profile and read my posts, you might have a better idea of what I am doing and what I am learning.
 
 Skills:  REACT / JS /NEXT JS / HTML / CSS/ WORDPRESS
 
